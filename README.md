@@ -1,2 +1,2 @@
-# react-to-do-app
-This is my React To-Do List Activity
+# react-activity
+This is my React Activity
